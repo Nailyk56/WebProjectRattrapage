@@ -1,0 +1,30 @@
+.iconelien{
+    width:48px;
+    height: 48px;
+    right: 50%;
+    margin: 5px;
+}
+.logocesi{
+    width:180px;
+    height:100px;
+    right: 50%;
+    margin-bottom: 8px;
+    margin-top: 8px;
+}
+
+.annexe {display: flex;}
+
+#plan{
+    margin-right: auto;
+}
+
+#mention{
+    margin-left: auto;
+}
+
+.lienleg{
+    display:inline;
+    width: 15%;
+    padding: 5px 10px;
+    border: 1px solid black;
+}

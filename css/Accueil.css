@@ -1,0 +1,90 @@
+section {display: flex;position: relative;min-height: 400px;
+}
+
+section.presentation{ width: 100%;background: red;
+}
+
+section .imgbp{height: 100% ;width: 15%;position: absolute;left: 5%;top: 2%;
+}
+section .imgbp img{width: 100%; height: auto;
+}
+section .textebde {width: 25% ; height: auto;text-align: center;position: absolute;transform: translate(50%,0);right: 50%; border: 1px solid black; top: 5%;
+}
+
+section.contact{background:gold;flex-wrap: wrap;
+}
+
+
+div.contentform{
+    position: relative;
+  
+}
+.partiegauche h2{
+    height: fit-content;
+    width: 100%;
+    margin: 50px 0 0 50px;
+    
+}
+.partiegauche form{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+div.formulaire{
+    position:absolute;
+    left:5%;
+    top: 20%;
+    
+}
+.formulaire button
+{
+    display: block;
+}
+
+textarea{
+    width: 300px;
+    height: 150px;
+    resize: none;
+}
+
+div.formulaire input{display: block; margin-bottom:8px;
+}
+
+div.commentaire{
+    position: absolute;
+    transform: translate(50%,0);
+    left:40%; 
+}
+
+.contentcarte{
+    position:relative;
+    width: 100%;
+    height: 100%;
+    max-height: 400px;
+}
+.Carte{
+   position: absolute;
+   width: 100%;
+   height: 100%;
+   max-height: 400px;
+}
+
+.partiegauche{
+    width: 66.66666%;
+}
+.partiedroite{
+    width: 33.33333%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

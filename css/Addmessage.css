@@ -1,0 +1,14 @@
+form{
+    display:block;
+}
+.alignement{
+    display:block;
+    margin-bottom: 8px;
+}
+
+
+textarea{
+    width: 300px;
+    height: 150px;
+    resize: none;
+}

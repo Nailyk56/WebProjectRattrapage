@@ -1,0 +1,17 @@
+table { 
+    margin-top:20px;
+    margin-bottom: 20px;
+    border-collapse:collapse
+}
+td{
+    padding: 5px 10px;
+    
+    
+}
+.bordure{
+    border:1px solid black;
+}
+form{  
+margin-bottom:auto !important;
+margin-top:auto !important;
+}

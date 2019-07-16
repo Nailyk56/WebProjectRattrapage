@@ -1,0 +1,15 @@
+header
+{height: 80px; width: 100%; display: flex; position: relative; margin-bottom: 25px}
+
+header .logo
+{height: 100%; width: 15%;}
+
+header .logo img {height:100%; width:100%;}
+
+header nav
+{position: absolute; bottom: 0; right: 0;}
+
+header nav ul {display: flex;}
+
+header nav ul li
+{padding: 5px 20px; list-style: none; border: 1px solid black;}
